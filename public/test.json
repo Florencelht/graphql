@@ -1,0 +1,621 @@
+{
+    "status": 0,
+    "data": {
+        "films": [
+            {
+                "filmId": 6948,
+                "name": "云边有个小卖部",
+                "poster": "https://pic.maizuo.com/usr/movie/811e22d392ff9867e2a58a07c18ce0e0.jpg",
+                "actors": [
+                    {
+                        "name": "张嘉佳",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ac07d51fef03543bf0a18014c2dc2a34.jpg"
+                    },
+                    {
+                        "name": "彭昱畅",
+                        "role": "刘十三",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/91590c0fb4e9e895503796203ed14489.jpg"
+                    },
+                    {
+                        "name": "周也",
+                        "role": "程霜",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/cd9c9a5dc0eff20505d813c7c8337715.jpg"
+                    },
+                    {
+                        "name": "艾丽娅",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4a162eb699e09ecbefc3d831d82052c1.jpeg"
+                    },
+                    {
+                        "name": "陈贤恩",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/5ef3361bd4ca91a887162da1f236d5d2.jpg"
+                    }
+                ],
+                "director": "张嘉佳",
+                "category": "剧情",
+                "showDate": [
+                    1718985600,
+                    1719072000
+                ],
+                "synopsis": "普通青年刘十三，在城市中迷失自我，被外婆带回了故乡，一个云边的小镇。童年好友程霜和外婆陪伴着他，刘十三度过了一段平静的时光。他沿着祖祖辈辈留下的痕迹，认真倾听小镇的呼吸，在伸手能摸到云的小卖部，在高山与大海之间，在院子的桂花树下，逐渐走出往日的迷惘。有些人刻骨铭心，没几年就遗忘。有些人不论生死，都陪在你身旁。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1719014400,
+                "timeType": 3,
+                "runtime": 131,
+                "grade": "7.1",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": false
+            },
+            {
+                "filmId": 6945,
+                "name": "头脑特工队2",
+                "poster": "https://pic.maizuo.com/usr/movie/c364735ff94b19ea323ea93e9fb218f7.jpg",
+                "actors": [
+                    {
+                        "name": "刘易斯·布莱克",
+                        "role": "努努 Anger",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/2360b667f532da0a739af9ffe212ea19.jpg"
+                    },
+                    {
+                        "name": "凯尔西·曼",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/5de4e84b71d3de97a7ec4ffd8b4ecb51.png"
+                    },
+                    {
+                        "name": "艾米·波勒",
+                        "role": "乐乐 Joy",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0be94b490960e9b73ed58e495310ab20.jpg"
+                    },
+                    {
+                        "name": "关晓彤",
+                        "role": "乐乐（国语配音）",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c2e27ffa9be36c155ee836fb1fe01edc.jpg"
+                    },
+                    {
+                        "name": "玛雅·霍克",
+                        "role": "焦焦 Anxiety",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/df5f2a380fe40ff042b0c10b5663e688.jpg"
+                    }
+                ],
+                "director": "凯尔西·曼",
+                "category": "动画",
+                "showDate": [
+                    1718985600,
+                    1719072000
+                ],
+                "synopsis": "莱利（凯特林·迪亚斯 Kaitlyn Dias 配音）逐渐适应新城市后，乐乐（艾米·波勒 Amy Poehler 配音）、忧忧（菲利丝·史密斯 Phyllis Smith 配音）、怒怒（刘易斯·布莱克 Lewis Black 配音）、怕怕（托尼·海尔 Tony Hale 配音）和厌厌（莉萨·拉皮拉 Liza Lapira 配音）的“脑内生活”也波澜不惊，直到新情绪焦焦（玛雅·霍克 Maya Hawke 配音）从天而降，发掘心中未知的角落，一起感受喜怒哀乐，五味陈杂的百变情绪。",
+                "filmType": {
+                    "name": "3D",
+                    "value": 2
+                },
+                "nation": "美国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1718928000,
+                "timeType": 3,
+                "runtime": 97,
+                "grade": "7.3",
+                "item": {
+                    "name": "3D",
+                    "type": 2
+                },
+                "isPresale": false,
+                "isSale": false
+            },
+            {
+                "filmId": 6947,
+                "name": "沙漏",
+                "poster": "https://pic.maizuo.com/usr/movie/ae0d1d0de17c16d5bd50eecb15db6b59.jpg",
+                "actors": [
+                    {
+                        "name": "温婧",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a962b6203e2d11c8e06a94fc8c481a65.png"
+                    },
+                    {
+                        "name": "邱天",
+                        "role": " 莫醒醒",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/96b3112f4d81b96e6585e785022c2198.jpg"
+                    },
+                    {
+                        "name": "包上恩",
+                        "role": " 米砂",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/5e9e857cffbfff0241cd4c40d6af6faf.jpg"
+                    },
+                    {
+                        "name": "黄明昊",
+                        "role": " 路理",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/1555995711f8740f9ce26f09f5bac23e.jpg"
+                    },
+                    {
+                        "name": "陈昕葳",
+                        "role": "蒋蓝",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c8c3cf0715d721f308e856c0b020222a.jpg"
+                    }
+                ],
+                "director": "温婧",
+                "category": "青春|爱情",
+                "showDate": [
+                    1718985600,
+                    1719072000
+                ],
+                "synopsis": "我的青春里有数不尽的后悔和不开心，可幸运的是在这段灰暗的日子里我遇见你了。醒醒（邱天 饰），米砂（包上恩 饰），路理（黄明昊 饰）彼此陪伴走过青春时光，相互治愈驱散阴郁。那你呢？应该也有一个一直陪伴你、温暖你的人吧，带ta一起去看电影，然后告诉ta谢谢你一直在我身边，谢谢你成为了我最好的朋友。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1718928000,
+                "timeType": 3,
+                "runtime": 110,
+                "grade": "7.1",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": false
+            },
+            {
+                "filmId": 6934,
+                "name": "绝地战警：生死与共",
+                "poster": "https://pic.maizuo.com/usr/movie/5914d585b56c189410af490da935039d.png",
+                "actors": [
+                    {
+                        "name": "威尔·史密斯",
+                        "role": " 麦克·劳瑞 Mike Lowrey",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/2d72bfc65387174eb5a31f110e5683d4.jpg"
+                    },
+                    {
+                        "name": "马丁·劳伦斯",
+                        "role": " 马库斯·伯纳特 Marcus Burnett",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/046b3998f81942b09af9c3fb27eda031.jpg"
+                    },
+                    {
+                        "name": "亚历山大·路德韦格",
+                        "role": " 多姆 Dorn",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c3e05f9b40e849b219312983cab0630b.jpg"
+                    },
+                    {
+                        "name": "阿迪尔·埃尔·阿比",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a798d7ac910eaca78f44dffc5058467d.jpg"
+                    },
+                    {
+                        "name": "比拉勒·法拉赫",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/517049d6b748dd701ba038fa7185a376.jpg"
+                    }
+                ],
+                "director": "阿迪尔·埃尔·阿比|比拉勒·法拉赫",
+                "category": "动作|喜剧",
+                "showDate": [
+                    1718985600,
+                    1719072000
+                ],
+                "synopsis": "好莱坞经典动作喜剧《绝地战警：生死与共》再掀波澜。昔日警局局长遭重磅爆料，竟与贩毒集团暗中勾结？明星警探麦克·劳瑞（威尔·史密斯  饰）和马库斯·伯纳特（马丁·劳伦斯 饰）惨遭背刺，一夜从吃瓜群众沦为全美通缉犯！“怨种兄弟”为查明真相被迫重出江湖，迎接全新刺激挑战！黄金搭档能否绝处求生，在毒贩与同僚的双面夹击下洗刷污名？",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "美国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1719014400,
+                "timeType": 3,
+                "runtime": 116,
+                "grade": "7",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": false
+            },
+            {
+                "filmId": 6955,
+                "name": "海关战线",
+                "poster": "https://pic.maizuo.com/usr/movie/9b5e4b49fc15ecfabab57743ac53c840.jpg",
+                "actors": [
+                    {
+                        "name": "邱礼涛",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/03f51d6fde99eaa0a39cbc5db3d6514b.jpg"
+                    },
+                    {
+                        "name": "张学友",
+                        "role": " 张允南",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/671f3f8bf5657a2e5347f4c07a805584.jpg"
+                    },
+                    {
+                        "name": "谢霆锋",
+                        "role": " 周正礼",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/92523b542207bdb578075d4ea65346c8.jpg"
+                    },
+                    {
+                        "name": "林嘉欣",
+                        "role": " 邵雅莹",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/3dc21ec039f752556e94ee3b36ccec50.jpg"
+                    },
+                    {
+                        "name": "刘雅瑟",
+                        "role": " Ying",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b04fb03af43c87854fe63d045387efe3.jpg"
+                    }
+                ],
+                "director": "邱礼涛",
+                "category": "动作|剧情",
+                "showDate": [
+                    1719504000
+                ],
+                "synopsis": "香港海关在一次例行海上巡逻中，查获一艘藏有大批杀伤力武器的货船，调查过程中遭遇一群海外势力轰炸抢夺。为追查走私真相，张允南（张学友 饰）派出下属周正礼（谢霆锋 饰）与国际刑警一同远赴海外，辗转庞大而复杂的军火黑市，顶着漫天炮火追查线索的周正礼刚有眉目，噩耗却突然从香港传来，原来军火失窃另有隐情......",
+                "filmType": {
+                    "name": "4D",
+                    "value": 13
+                },
+                "nation": "中国大陆,中国香港",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1719532800,
+                "timeType": 3,
+                "runtime": 117,
+                "grade": "7.2",
+                "item": {
+                    "name": "4D",
+                    "type": 13
+                },
+                "isPresale": false,
+                "isSale": false
+            },
+            {
+                "filmId": 6909,
+                "name": "我才不要和你做朋友呢",
+                "poster": "https://pic.maizuo.com/usr/movie/5315e8103dd09d47b5effd21a18f8f8e.jpg",
+                "actors": [
+                    {
+                        "name": "何念",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9bfd5e20523b2b4c5fe5203aaa2dd3ab.jpg"
+                    },
+                    {
+                        "name": "庄达菲",
+                        "role": " 李进步",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/eb34beaaac4ed83e016bde7eed9c7549.jpg"
+                    },
+                    {
+                        "name": "陈昊宇",
+                        "role": " 李青桐",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b477892bbec2ae8783022cddf6e28207.jpg"
+                    },
+                    {
+                        "name": "王皓",
+                        "role": " 陈君何",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a203b6591a67e1ce2f03ba5a4b2410da.jpg"
+                    },
+                    {
+                        "name": "毕雯珺",
+                        "role": " 吴智勋",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ce01590c562f43b668c684ac6cb32bb1.jpg"
+                    }
+                ],
+                "director": "何念",
+                "category": "喜剧|青春",
+                "showDate": [
+                    1718985600,
+                    1719072000
+                ],
+                "synopsis": "夏天就要看肆意欢笑的青春喜剧！6月8日，见笑了朋友！17岁的高中生李进步（庄达菲 饰）和妈妈李青桐（陈昊宇饰）一直以来矛盾重重。一次偶然的奇幻际遇，李进步回到妈妈的高中年代，闯入了妈妈的朋友圈“破铜烂铁乐队”。当一心想要“逆天改爸”的李进步遇到重情重义的李青桐和她的朋友们，她们的生活状况不断却又笑料百出。一场搞笑逗趣的青春之旅，正悄然揭开序幕……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1717804800,
+                "timeType": 3,
+                "runtime": 114,
+                "grade": "7.8",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": false
+            },
+            {
+                "filmId": 6926,
+                "name": "加菲猫家族",
+                "poster": "https://pic.maizuo.com/usr/movie/123d6d1753b7bb252fafd0d0f42a0419.jpg",
+                "actors": [
+                    {
+                        "name": "马克·丁达尔",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d2b2f91f0fba1c9accb989da5c8676dd.jpg"
+                    },
+                    {
+                        "name": "克里斯·帕拉特",
+                        "role": "加菲猫 Garfield",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/5521ae12a1ac47954579ec0a330d64e5.jpg"
+                    },
+                    {
+                        "name": "塞缪尔·杰克逊",
+                        "role": "维克 Vic",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/e7a67dabb8e34b73b3b88e5545eaaa72.jpg"
+                    },
+                    {
+                        "name": "汉娜·沃丁厄姆",
+                        "role": "配音演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/8982a71ae9dab1c1cbf4dce20cd204bb.jpg"
+                    },
+                    {
+                        "name": "文·瑞姆斯",
+                        "role": "配音演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ad01ba83ca95040260e354a4f3a0d254.jpg"
+                    }
+                ],
+                "director": "马克·丁达尔",
+                "category": "喜剧|动画|冒险",
+                "showDate": [
+                    1718985600,
+                    1719072000
+                ],
+                "synopsis": "《加菲猫》是马克·丁达尔执导，Paul A. Kaplan、Mark Torgove、大卫·雷诺兹担任编剧，克里斯·帕拉特担任主要配音，DNEG Animation制作的动画电影，于2024年5月24日在美国上映。 影片改编自吉姆·戴维斯的同名漫画，讲述了加菲猫与欧迪同加菲猫的父亲维克一起进行一场搞笑且高风险的盗窃的故事。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "美国,英国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1717200000,
+                "timeType": 3,
+                "runtime": 101,
+                "grade": "7.1",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": false
+            },
+            {
+                "filmId": 6933,
+                "name": "排球少年!! 垃圾场决战",
+                "poster": "https://pic.maizuo.com/usr/movie/8c0b6266d51e9b1d20e80c61872eb1de.jpg",
+                "actors": [
+                    {
+                        "name": "村濑步",
+                        "role": "配音演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/89652de9b9017a6fe40d6e39f6568b72.jpg"
+                    },
+                    {
+                        "name": "石川界人",
+                        "role": "配音演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/13ebe73131a7395d18163a3c7970f631.jpg"
+                    },
+                    {
+                        "name": "日野聪",
+                        "role": "配音演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4e0e66fe901d9579a9c31360fed0e5f8.jpg"
+                    },
+                    {
+                        "name": "入野自由",
+                        "role": "配音演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c6755c434275f3368176bead67356f38.jpg"
+                    },
+                    {
+                        "name": "细谷佳正",
+                        "role": "配音演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/e81f2d4403883fa9ca8cc4d7e27beb7a.jpg"
+                    }
+                ],
+                "director": "满仲劝",
+                "category": "动画|运动",
+                "showDate": [
+                    1718985600,
+                    1719072000
+                ],
+                "synopsis": "故事讲述了风靡十年的超人气热血IP《排球少年!!》中人气最高、最精彩绝伦的垃圾场决战。日向翔阳因为心怀成为“排球小巨人”的梦想加入了乌野高中排球部，逐渐成为独当一面的副攻手。春季高中排球比赛上，乌野高中排球部终于迎来了与音驹高中排球部的正式比赛。同为“没落的豪强”，两支队伍惺惺相惜，却从未站上过同一场正式较量的舞台。长久的纠葛终于迎来了结，一场“只有一次”的命运对决即将开幕！振翅一击吧，心怀梦想的少年们！",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "日本",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1718409600,
+                "timeType": 3,
+                "runtime": 85,
+                "grade": "7",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": false
+            },
+            {
+                "filmId": 6942,
+                "name": "陌路惊魂",
+                "poster": "https://pic.maizuo.com/usr/movie/529ed3a013627c7fbb8e29e57e66ded3.jpg",
+                "actors": [
+                    {
+                        "name": "靪文",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/42e52cc0f6811329f9f3a8bfe07da948.jpg"
+                    },
+                    {
+                        "name": "张晓锋",
+                        "role": " 周小军",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b42e132c4de7458cb57144f19b9bad63.jpg"
+                    },
+                    {
+                        "name": "王柯词",
+                        "role": "萧晴",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/e0fa9b5a1583f82168458c8aa448cc8e.jpg"
+                    },
+                    {
+                        "name": "刘远锋",
+                        "role": "张德忠",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/38ecfe214bad112e47889dcd0d370a0e.jpg"
+                    },
+                    {
+                        "name": "李苑祯",
+                        "role": "秦丽",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/bf1eb8a5f9b543985c42fddd33e4939f.jpg"
+                    }
+                ],
+                "director": "靪文",
+                "category": "恐怖|惊悚|悬疑",
+                "showDate": [
+                    1718985600,
+                    1719072000
+                ],
+                "synopsis": "因防卫过当失手杀人的周小军假释出狱，在回谭镇见女友的路途中搭上了一辆奇怪的顺风车，车上另外一位女孩和一对夫妻行为表现诡异，陌路相逢的陌生人使得这趟旅途一场又一场灵异惊魂事件不断发生……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1718323200,
+                "timeType": 3,
+                "runtime": 90,
+                "grade": "7.6",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": false
+            },
+            {
+                "filmId": 6904,
+                "name": "谈判专家",
+                "poster": "https://pic.maizuo.com/usr/movie/2b0a471ffce134e13bd12c9dc9e81ffb.jpg",
+                "actors": [
+                    {
+                        "name": "邱礼涛",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/03f51d6fde99eaa0a39cbc5db3d6514b.jpg"
+                    },
+                    {
+                        "name": "刘青云",
+                        "role": "卓文伟",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/51cec13600aa7f842fcebde2c65014fd.jpg"
+                    },
+                    {
+                        "name": "吴镇宇",
+                        "role": "谢家俊",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/39d3432ff8c97c8bdc0f7e8fa6d164a4.jpg"
+                    },
+                    {
+                        "name": "苗侨伟",
+                        "role": "罗安邦",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/618486bf2f1df8e166b5ad46577c5eba.jpg"
+                    },
+                    {
+                        "name": "姜皓文",
+                        "role": "李志斌",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a2043acfd9ee41fcbef9613c65e37369.jpg"
+                    }
+                ],
+                "director": "邱礼涛",
+                "category": "剧情",
+                "showDate": [
+                    1718985600
+                ],
+                "synopsis": "强强对话，以“嘴”服人！谈判专家卓文伟（刘青云 饰）意外成为一桩命案的头号嫌犯，被逼无奈下他占领警署挟持警察作人质，并指定前谈判专家谢家俊（吴镇宇 饰）与自己对话。擅长攻心的谢家俊与技巧高超的卓文伟反复拉锯，唇枪舌战间，两人的立场与心态逐渐发生改变……本片改编自美国电影《王牌对王牌》。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆,中国香港",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1717804800,
+                "timeType": 3,
+                "runtime": 120,
+                "grade": "7.5",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": false
+            },
+            {
+                "filmId": 6941,
+                "name": "狗阵",
+                "poster": "https://pic.maizuo.com/usr/movie/194af042d97b9fb6869d55781bf6cb72.jpg",
+                "actors": [
+                    {
+                        "name": "管虎",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/18aabcaea4d25e869b00e5c14af760c4.jpg"
+                    },
+                    {
+                        "name": "彭于晏",
+                        "role": " 二郎",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/275a877d692f42246469d39d910b2c2e.jpg"
+                    },
+                    {
+                        "name": "佟丽娅",
+                        "role": " 葡萄",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/89d4bb6e9cfdb2ac41925a1aa5364fd1.jpg"
+                    },
+                    {
+                        "name": "贾樟柯",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/e3281fd7fc6e50b0b7ebf0250f173184.jpg"
+                    },
+                    {
+                        "name": "胡晓光",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d5e4a19d2a438158f9847123a6b46592.jpg"
+                    }
+                ],
+                "director": "管虎",
+                "category": "剧情",
+                "showDate": [
+                    1719072000
+                ],
+                "synopsis": "十余年前的西北小镇，刚出狱的二郎（彭于晏 饰）重归故土，面对偏见，面对防备，他不知该如何开启新生活。迫于生计加入打狗队后，二郎拯救了一只流浪黑狗，他也在和黑狗的相处中获得了再次上路的勇气。生命在暗处的绽放更凶猛有力，一人一狗在互相救赎中，拥抱着彼此的新生。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1718409600,
+                "timeType": 3,
+                "runtime": 110,
+                "grade": "7.1",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": false
+            }
+        ]
+    },
+    "msg": "ok"
+}
